@@ -1,0 +1,10 @@
+/venv
+**/*.fbx
+**/*.glb
+**/*.gltf
+**/*.obj
+**/*.ply
+**/*.blend
+**/*.mtl
+**/*.stl
+/segmented_parts
