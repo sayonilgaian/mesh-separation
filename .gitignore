@@ -5,6 +5,8 @@
 **/*.obj
 **/*.ply
 **/*.blend
+**/*.blend*
 **/*.mtl
 **/*.stl
 /segmented_parts
+/curvature_segments
